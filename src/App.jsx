@@ -9,6 +9,17 @@ function App() {
           Welcome to <span className="highlight">Dream Aquatics</span>
         </h1>
         <p className="lede">We are opening shortly — Stay Tuned.</p>
+        <div className="social">
+          <span className="social-label">Follow us on Instagram</span>
+          <a
+            className="social-link"
+            href="https://www.instagram.com/dreamaquatics23/?hl=en"
+            target="_blank"
+            rel="noreferrer"
+          >
+            instagram.com/dreamaquatics23
+          </a>
+        </div>
         <div className="glow-lines" aria-hidden />
       </section>
       <div className="reef-shadow" aria-hidden />
