@@ -9,6 +9,13 @@ function App() {
           Welcome to <span className="highlight">Dream Aquatics</span>
         </h1>
         <p className="lede">We are opening shortly — Stay Tuned.</p>
+        <div className="subtext">
+          <h2>Exclusive and Exotics</h2>
+          <p>
+            Welcome to the wonderful world of fish keeping. Your trusted source for exotic aquarium
+            fishes with expert advice and nationwide shipping.
+          </p>
+        </div>
         <div className="social">
           <span className="social-label">Follow us on Instagram</span>
           <a
